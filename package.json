@@ -2,7 +2,7 @@
   "name": "Finance_Dashboard",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://devleena750.github.io/Finance_Dashboard",
+  "homepage": "https://github.com/Devleena750/Finance_Dashboard",
   "type": "module",
   "scripts": {
     "dev": "vite",
